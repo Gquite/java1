@@ -4,7 +4,7 @@ public class Excelle {
     public Excelle(String id,String type){
         this.id=id;
         this.type=type;
-System.out.println("");
+
     }
 
     public String getType() {
