@@ -1,3 +1,5 @@
+package 章节作业;
+
 public class Lion extends Animal {
     public void  say(){
         System.out.println("噢呜");
