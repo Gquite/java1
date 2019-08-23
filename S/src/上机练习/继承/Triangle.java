@@ -1,4 +1,4 @@
-package 上机练习;
+package 上机练习.继承;
 
 public class Triangle extends  Count{
         private  double tall;

@@ -1,4 +1,4 @@
-package 上机练习;
+package 上机练习.继承;
 
 public class Circle extends Count {
     private  final double Pai=3.14;

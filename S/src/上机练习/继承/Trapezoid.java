@@ -1,4 +1,4 @@
-package 上机练习;
+package 上机练习.继承;
 
 public class Trapezoid extends Count {
     private double upperBase;
